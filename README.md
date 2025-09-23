@@ -42,12 +42,12 @@
 </table>
 </div>
 <!-- About / Short Bio Section -->
-## About Me
-
+<h2 align="center">About Me</h2>
 Hi! 👋 I'm Spandan. I have completed learning AWS and have now started exploring DevOps. Let's build, automate, and innovate together! 💻✨  
 #Cloud #DevOps #Automation #CI/CD
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
