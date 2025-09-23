@@ -22,7 +22,7 @@
 
 <!-- Skills and Projects Table -->
 <div align="center">
-<table>
+<table style="width:90%; border-collapse: collapse; font-size:16px; text-align:center;" border="1" cellpadding="12">
   <thead>
     <tr>
       <th>Domain</th>
@@ -48,4 +48,5 @@ Hi! 👋 I'm Spandan. I have completed learning AWS and have now started explori
 #Cloud #DevOps #Automation #CI/CD
 
 <!-- Update all href links and usernames with your details -->
+
 
