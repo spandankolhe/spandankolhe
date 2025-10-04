@@ -39,10 +39,10 @@
       </td>
     </tr>
         <tr>
-      <td>Cloud</td>
-      <td>AWS</td>
+      <td>Devops</td>
+      <td>Git & Github</td>
       <td>
-        <a href="https://github.com/spandankolhe/3TierArchitectureWithS3-Cdn">AWS 3-Tier Architecture Project</a><br>
+        <a href="https://github.com/spandankolhe/">Git Branching Workflow – Mini Project</a><br>
       </td>
     </tr>
   </tbody>
@@ -53,6 +53,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
