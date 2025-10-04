@@ -16,6 +16,7 @@
   <!-- Technology / Skill Badges -->
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GitHub-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/DevOps-DevOps-blue?style=flat-square&logo=appveyor&logoColor=white" alt="DevOps" />
   <img src="https://img.shields.io/badge/Python-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
@@ -53,6 +54,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
