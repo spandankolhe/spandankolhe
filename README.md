@@ -41,7 +41,8 @@
     </tr>
         <tr>
       <td>Devops</td>
-      <td>Git & Github</td>
+      <td>Git & Github
+          Github & Gitlab</td>
       <td>
         <a href="https://github.com/spandankolhe/GitBranchingProject">Git Branching Workflow – Mini Project</a><br>
         <a href="https://github.com/spandankolhe/GitBranchingProject">Git Branching Workflow – Mini Project</a><br>
@@ -54,6 +55,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
