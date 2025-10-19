@@ -45,7 +45,7 @@
           Github & Gitlab</td>
       <td>
         <a href="https://github.com/spandankolhe/GitBranchingProject">Git Branching Workflow – Mini Project</a><br>
-        <a href="https://github.com/spandankolhe/GitBranchingProject">Git Branching Workflow – Mini Project</a><br>
+        <a href="https://github.com/spandankolhe/miroring-miniproject">GitHub Repository Mirroring</a><br>
     </tr>
   </tbody>
 </table>
@@ -55,6 +55,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
