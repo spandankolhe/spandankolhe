@@ -53,6 +53,12 @@
       <td>
         <a href="https://github.com/spandankolhe/miroring-miniproject">GitHub Repository Mirroring</a><br>
     </tr>
+    <tr>
+      <td>Jenkins & Github</td>
+      <td>Jenkins & Github</td>
+      <td>
+        <a href="https://github.com/spandankolhe/miroring-miniproject">GitHub Repository Mirroring</a><br>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -61,6 +67,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
