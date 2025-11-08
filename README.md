@@ -54,10 +54,10 @@
         <a href="https://github.com/spandankolhe/miroring-miniproject">GitHub Repository Mirroring</a><br>
     </tr>
     <tr>
-      <td>Jenkins & Github</td>
-      <td>Jenkins & Github</td>
+      <td>CICD</td>
+      <td>Jenkins, Github & EC2</td>
       <td>
-        <a href="https://github.com/spandankolhe/miroring-miniproject">GitHub Repository Mirroring</a><br>
+        <a href="https://github.com/spandankolhe/miroring-miniproject">CI/CD Automation for Node.js Application</a><br>
     </tr>
   </tbody>
 </table>
@@ -67,6 +67,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
