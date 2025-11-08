@@ -34,10 +34,15 @@
   <tbody>
     <tr>
       <td>Cloud</td>
-      <td>AWS<br>
-      AWS</td>
+      <td>AWS</td>
       <td>
         <a href="https://github.com/spandankolhe/3TierArchitectureWithS3-Cdn">AWS 3-Tier Architecture Project</a><br>
+      </td>
+    </tr>
+     <tr>
+      <td>Cloud</td>
+      <td>AWS</td>
+      <td>
         <a href="https://github.com/spandankolhe/Secure-Serverless-Personal-File-Sharing-System">Secure Serverless Personal File Sharing System</a><br>
       </td>
     </tr>
@@ -57,7 +62,7 @@
       <td>CICD</td>
       <td>Jenkins, Github & EC2</td>
       <td>
-        <a href="https://github.com/spandankolhe/miroring-miniproject">CI/CD Automation for Node.js Application</a><br>
+        <a href="https://github.com/spandankolhe/nodejs-app-CICD">CI/CD Automation for Node.js Application</a><br>
     </tr>
   </tbody>
 </table>
@@ -67,6 +72,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
