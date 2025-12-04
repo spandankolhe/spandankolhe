@@ -46,6 +46,12 @@
         <a href="https://github.com/spandankolhe/Secure-Serverless-Personal-File-Sharing-System">Secure Serverless Personal File Sharing System</a><br>
       </td>
     </tr>
+     <tr>
+      <td>DevOps</td>
+      <td>Terraform,Jenkins, Github & EC2</td>
+      <td>
+        <a href="[https://github.com/spandankolhe/nodejs-app-CICD](https://github.com/spandankolhe/Terraform-Jenkins-Ec2-Jarvis-Desktop-Voice-Assistant)">Terraform-Based AWS EC2 Deployment with Jenkins Automation</a><br>
+    </tr>
         <tr>
       <td>Git & Github</td>
       <td>Git & Github </td>
@@ -64,6 +70,8 @@
       <td>
         <a href="https://github.com/spandankolhe/nodejs-app-CICD">CI/CD Automation for Node.js Application</a><br>
     </tr>
+
+    
   </tbody>
 </table>
 </div>
@@ -72,6 +80,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
