@@ -50,7 +50,7 @@
       <td>DevOps</td>
       <td>Terraform,Jenkins, Github & EC2</td>
       <td>
-        <a href="[https://github.com/spandankolhe/nodejs-app-CICD](https://github.com/spandankolhe/Terraform-Jenkins-Ec2-Jarvis-Desktop-Voice-Assistant)">Terraform-Based AWS EC2 Deployment with Jenkins Automation</a><br>
+        <a href="https://github.com/spandankolhe/Terraform-Jenkins-Ec2-Jarvis-Desktop-Voice-Assistant">Terraform-Based AWS EC2 Deployment with Jenkins Automation</a><br>
     </tr>
         <tr>
       <td>Git & Github</td>
@@ -80,6 +80,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
