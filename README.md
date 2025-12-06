@@ -50,8 +50,13 @@
       <td>DevOps</td>
       <td>Terraform,Jenkins, Github & EC2</td>
       <td>
-        <a href="https://github.com/spandankolhe/Terraform-Jenkins-Ec2-Jarvis-Desktop-Voice-Assistant">Terraform-Based AWS EC2 Deployment with Jenkins Automation</a><br>
-    </tr>
+        <a href="https://github.com/spandankolhe/Terraform-Jenkins-Ec2-Jarvis-Desktop-Voice-Assistant">Terraform-Based AWS EC2 Deployment with Jenkins Automation(Python webApp)</a><br>
+     </tr>           
+        <td>DevOps</td>
+      <td>Terraform,Jenkins, Github & EC2</td>
+      <td>
+        <a href="https://github.com/spandankolhe/Static-Web-deployment-Terraform-Jenkins-Github-Ec2">Terraform-Based AWS EC2 Deployment with Jenkins Automation(Static Website)</a><br>
+     </tr> 
         <tr>
       <td>Git & Github</td>
       <td>Git & Github </td>
@@ -80,6 +85,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
