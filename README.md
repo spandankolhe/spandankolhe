@@ -80,6 +80,7 @@
       <td>
         <a href="https://github.com/spandankolhe/JumbledWordsGame">Word Jumble Game </a><br>
       </td>
+      </tr>
       <td>Python</td>
       <td>Python3</td>
       <td>
@@ -94,6 +95,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
