@@ -76,13 +76,13 @@
         <a href="https://github.com/spandankolhe/nodejs-app-CICD">CI/CD Automation for Node.js Application</a><br>
     </tr>
     <td>Python</td>
-      <td>Python3</td>
+      <td>Functions, Random</td>
       <td>
         <a href="https://github.com/spandankolhe/JumbledWordsGame">Word Jumble Game </a><br>
       </td>
       </tr>
       <td>Python</td>
-      <td>Python3</td>
+      <td>Matrix, Exception handling</td>
       <td>
         <a href="https://github.com/spandankolhe/MagicSquareGenerator-Python">Magic Square Generator </a><br>
       </td>
@@ -95,6 +95,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
