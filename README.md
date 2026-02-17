@@ -80,7 +80,11 @@
       <td>
         <a href="https://github.com/spandankolhe/JumbledWordsGame">Word Jumble Game </a><br>
       </td>
-
+      <td>Python</td>
+      <td>Python3</td>
+      <td>
+        <a href="https://github.com/spandankolhe/MagicSquareGenerator-Python">Magic Square Generator </a><br>
+      </td>
     
   </tbody>
 </table>
@@ -90,6 +94,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
