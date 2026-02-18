@@ -86,6 +86,12 @@
       <td>
         <a href="https://github.com/spandankolhe/MagicSquareGenerator-Python">Magic Square Generator </a><br>
       </td>
+       </tr>
+      <td>Python</td>
+      <td>List,Random</td>
+      <td>
+        <a href="https://github.com/spandankolhe/Spot-the-Similar-Symbol-Game-Python">Spot the Similar Symbol Game</a><br>
+      </td>
     
   </tbody>
 </table>
@@ -95,6 +101,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
