@@ -1,6 +1,6 @@
 <!-- Profile Header / Greeting -->
 <h1 align="center">Hi 👋, I'm Spanan Kolhe</h1>
-<p align="center">A passionate Cloud & DevOps Practitioner from India</p>
+<p align="center">A passionate Python, Cloud & DevOps Practitioner from India</p>
 
 <p align="center">
   <a href="https://spandankolhe.github.io/portfolio/" target="_blank">
@@ -101,6 +101,7 @@
 
 
 <!-- Update all href links and usernames with your details -->
+
 
 
 
