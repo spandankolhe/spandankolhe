@@ -21,7 +21,7 @@
 </p>
 <h1  align="center">Internship Projects</h1>
 <div align="center">
-<table style="width:90%; border-collapse: collapse; font-size:16px; text-align:center; margin-bottom:20px;" border="1" cellpadding="12">
+<table style="width:90%; border-collapse: collapse; font-size:16px; text-align:center;" border="1" cellpadding="12">
   <thead>
     <tr>
       <th>Domain</th>
