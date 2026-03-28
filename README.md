@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Python-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 <h1  align="center">Internship Projects</h1>
+<div align="center">
 <table style="width:90%; border-collapse: collapse; font-size:16px; text-align:center; margin-bottom:20px;" border="1" cellpadding="12">
   <thead>
     <tr>
@@ -38,6 +39,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 <h1 align="center">Daily projects</h1>
 <!-- Skills and Projects Table -->
 <div align="center">
