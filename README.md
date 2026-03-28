@@ -34,7 +34,8 @@
       <td>Cloud</td>
       <td>AWS</td>
       <td>
-        <a href="https://github.com/spandankolhe/3TierArchitectureWithS3-Cdn">AWS 3-Tier Architecture Project</a><br>
+        <a href="https://github.com/spandankolhe/Aws-Beanstalk-Rds-Ec2-Project">Using AWS Elastic Beanstalk to Set Up RDS and Access It from an EC2 
+Instance</a><br>
       </td>
     </tr>
   </tbody>
