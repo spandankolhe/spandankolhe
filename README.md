@@ -55,7 +55,7 @@ Instance</a><br>
   <tbody>
     <tr>
       <td>Docker</td>
-      <td>Docker</td>
+      <td>Docker, Ec2</td>
       <td>
         <a href="https://github.com/spandankolhe/docker-three-tier-app/">Dockerized Three-Tier Web Application</a><br>
       </td>
