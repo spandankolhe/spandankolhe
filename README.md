@@ -54,6 +54,13 @@ Instance</a><br>
   </thead>
   <tbody>
     <tr>
+      <td>Docker</td>
+      <td>Docker</td>
+      <td>
+        <a href="https://github.com/spandankolhe/docker-three-tier-app/">Dockerized Three-Tier Web Application</a><br>
+      </td>
+    </tr>
+    <tr>
       <td>Cloud</td>
       <td>AWS</td>
       <td>
